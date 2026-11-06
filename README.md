@@ -1,12 +1,8 @@
 # portfolio-v1
 
-Starter for a personal portfolio site, created with Create React App. The site isn't built yet, and `src/App.js` still shows the default starter page.
+**Live site: [sachin-gujjar.netlify.app](https://sachin-gujjar.netlify.app/)**
 
-## Next Steps
-
-- Replace the starter page with an intro and project list
-- Add a contact section
-- Deploy it
+This repository is a Create React App starter for my portfolio, and `src/App.js` still shows the default starter page. It is not the code behind the live site.
 
 ## Run It
 
